@@ -52,7 +52,7 @@ div.nominats{
     top: -350px;
     z-index: 10;
 }
-div.nom{
+div.d{
     background-color: yellow;
     color: blue;
     text-align: center;
@@ -64,7 +64,7 @@ hr.footer{
     position: relative;
     top: -15px;
 }
-div.mou{
+div.c{
     position: relative;
     bottom: 18cm;
 }

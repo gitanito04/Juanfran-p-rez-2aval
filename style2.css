@@ -27,22 +27,26 @@ div.contacte{
     left: 100px;
     top: 100px;
 }
-p.con{
-    color: blue;
-    font-weight: bold;
-}
-p.nom{
+p.form{
     color: blue;
     font-weight: bold;
 }
 p.peli{
+    position: relative;
+    right: px;    
     color: blue;
     font-weight: bold;
 }
-p.opi{
-    color: blue;
-    font-weight: bold;
+input.peli{
+    width: 100px; 
 }
+input.puntuacio{
+    width: 136px;
+}
+
+
+
+
 
 
 

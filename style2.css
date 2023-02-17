@@ -31,11 +31,18 @@ p.con{
     color: blue;
     font-weight: bold;
 }
+p.nom{
+    color: blue;
+    font-weight: bold;
+}
 p.peli{
     color: blue;
     font-weight: bold;
 }
-
+p.opi{
+    color: blue;
+    font-weight: bold;
+}
 
 
 

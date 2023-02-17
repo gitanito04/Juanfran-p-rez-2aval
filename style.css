@@ -1,15 +1,75 @@
-h1.a{
+div.a{
     text-align: center;
+    background-color: lightpink;
     color: blue;
-    background-color: pink;
 }
-p.b{
-    text-align: center;
-    color: royalblue;
+div.b{
     background-color: aliceblue;
-}
-p.c{
+    color: royalblue;
     text-align: center;
-    color: blue;
+}
+a:hover{
     background-color: yellow;
+    color: black;
+}
+img.anteriors{
+    width: 350px;
+    height: 350px;
+    margin: 25px;
+}
+div.anteriors{
+    background-color: lightsalmon;
+    color: blue;
+    width: 400px;
+    height: 400px;
+}
+img.nominats{
+    width: 350px;
+    height: 350px;
+    margin: 25px;
+}
+img.contacte{
+    width: 350px;
+    height: 350px;
+    margin: 25px;
+}
+div.contacte{
+    background-color: lightsalmon;
+    color: blue;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    right: -700px;
+    top: -700px;
+}
+div.nominats{
+    background-color: lightseagreen;
+    color: red;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    right: -350px;
+    top: -350px;
+    z-index: 10;
+}
+div.nom{
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+    width: auto;
+    position: relative;
+    top: -8px;
+}
+hr.footer{
+    position: relative;
+    top: -15px;
+}
+div.mou{
+    position: relative;
+    bottom: 18cm;
+}
+
+div.imatge{
+    position: relative;
+    left: 10cm;
 }

@@ -1,3 +1,7 @@
 body{
-    background-color: burlywood;
+    background-color: rgb(214, 145, 54);
+}
+h1.a{
+    text-align: center;
+    color: blue;
 }
